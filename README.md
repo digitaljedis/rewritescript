@@ -1,5 +1,5 @@
 # rewritescript
-Rewrite Script for Wordpress Permalinks when using Namesco hosting
+Rewrite Script for Wordpress Permalinks when using Namesco hosting make sure to save as rewrite.script and place in root directory.
 RULE_0_START:
 # get the document root
 map path into SCRATCH:DOCROOT from /
